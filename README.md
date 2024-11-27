@@ -22,7 +22,8 @@ OSGeoLabUD's GeoAI Lab Repository is located in Unversidad Distrital francisco J
 
 ## Contact with us
 
-[osgelabud@udistrital.edu.co](mailto:osgeolab@udistrital.edu.co)
+[osgeolab@udistrital.edu.co](mailto:osgeolab@udistrital.edu.co)
+
 [paulocoronado@udistrital.edu.co](mailto:paulocoronado@udistrital.edu.co)
 
 ## Resources
@@ -54,3 +55,6 @@ The laboratory staff has an interest in GeoAI development, teaching and learning
  * Heat Islands.
  * Urban Mobility.
  * Mapping.
+
+OSGeoLabUD's GeoAI Lab
+Universidad Distrital Francisco José de Caldas
