@@ -21,7 +21,8 @@ El Repositorio del GeoAI Lab de OSGeoLabUD se encuentra en la Universidad Distri
 
 ## Contacto
 
-[osgelabud@udistrital.edu.co](mailto:osgeolab@udistrital.edu.co)  
+[osgeolab@udistrital.edu.co](mailto:osgeolab@udistrital.edu.co)  
+
 [paulocoronado@udistrital.edu.co](mailto:paulocoronado@udistrital.edu.co)
 
 ## Recursos
@@ -54,3 +55,7 @@ El personal del laboratorio tiene interés en el desarrollo, enseñanza y aprend
 * Islas de calor  
 * Movilidad urbana  
 * Cartografía
+
+**Laboratorio de GeoAI**
+Semillero de Investigación OSGeoLAB-UD
+Universidad Distrital Francisco José de Caldas
